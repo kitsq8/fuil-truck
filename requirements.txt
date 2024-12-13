@@ -1,4 +1,4 @@
-streamlite
+streamlit
 sqlite3
 pandas
 plotly
