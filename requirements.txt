@@ -1,0 +1,4 @@
+streamlite
+sqlite3
+pandas
+plotly
